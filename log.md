@@ -1,7 +1,7 @@
 # 100 Days Of Code - Log
  
 
-### Day 1: January 3, Monday
+### Day 1: January 3, Tuesday
 
 **Today's Progress**: spent the whole day flying from lagos to london
 
@@ -10,7 +10,7 @@
 **Link(s) to work**  :(
 
 
-### Day 2: January 4, Monday
+### Day 2: January 4, Wednesday
 
 **Today's Progress**: I've gone through many exercises on FreeCodeCamp.
 
@@ -21,7 +21,7 @@
 2. [Factorialize a Number](https://www.freecodecamp.com/challenges/factorialize-a-number)
 3. [Reverse a String](https://www.freecodecamp.com/challenges/reverse-a-string)
 
-### Day 3: January 5, Monday
+### Day 3: January 5, Thursday
 
 **Today's Progress**: half way through the algorithm exercises on FreeCodeCamp.
 
@@ -35,7 +35,7 @@
 5. [Repeat a string repeat a string](https://www.freecodecamp.com/challenges/repeat-a-string-repeat-a-string)
 6. [truncate a string](https://www.freecodecamp.com/challenges/truncate-a-string)
 
-### Day 4: January 6, Monday
+### Day 4: January 6, Friday
 
 **Today's Progress**: friyay slow day.
 
