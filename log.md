@@ -46,3 +46,34 @@
 2. [falsebouncer](https://www.freecodecamp.com/challenges/falsy-bouncer)
 3. [mutations](https://www.freecodecamp.com/challenges/mutations)
 4. [slickerFlick](https://www.freecodecamp.com/challenges/slasher-flick) 
+
+### Day 5: January 7, Saturday
+
+**Today's Progress**: ciphar complete
+
+**Thoughts** The ciphar was a bit complex. i certainly think it can be refactored but for now I AM SPARTACUS
+
+**Link(s) to work**
+1. [ceasar cipher](https://www.freecodecamp.com/challenges/chunky-monkey)
+2. [falsebouncer](https://www.freecodecamp.com/challenges/falsy-bouncer)
+3. [mutations](https://www.freecodecamp.com/challenges/mutations)
+4. [slickerFlick](https://www.freecodecamp.com/challenges/slasher-flick) 
+
+
+### Day 6: January 8, Sunday
+
+**Today's Progress**: ciphar complete
+
+**Thoughts** The ciphar was a bit complex. i certainly think it can be refactored but for now I AM SPARTACUS
+
+**Link(s) to work**
+1. [Sum All Numbers in a Range](https://www.freecodecamp.com/challenges/sum-all-numbers-in-a-range) 
+
+### Day 7: January 9, Monday
+
+**Today's Progress**: Random Quote Machine complete
+
+**Thoughts** Think i could do with a better UI but the feedback suggest that the application is soundly built
+
+**Link(s) to work**
+1. [Built a Random quote machine](https://www.freecodecamp.com/challenges/build-a-random-quote-machine) 
