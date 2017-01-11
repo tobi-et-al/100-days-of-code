@@ -69,6 +69,7 @@
 **Link(s) to work**
 1. [Sum All Numbers in a Range](https://www.freecodecamp.com/challenges/sum-all-numbers-in-a-range) 
 
+
 ### Day 7: January 9, Monday
 
 **Today's Progress**: Random Quote Machine complete
@@ -77,3 +78,14 @@
 
 **Link(s) to work**
 1. [Built a Random quote machine](https://www.freecodecamp.com/challenges/build-a-random-quote-machine) 
+
+
+### Day 8: January 10, Tuesday
+
+**Today's Progress**: little progress made on the Intermediate Algorithm Scripting :(
+
+**Thoughts** 
+
+**Link(s) to work**
+
+1. [Sum All Numbers in a Range](https://www.freecodecamp.com/challenges/sum-all-numbers-in-a-range) 
