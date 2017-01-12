@@ -91,7 +91,7 @@
 1. [Sum All Numbers in a Range](https://www.freecodecamp.com/challenges/sum-all-numbers-in-a-range) 
 
 
-### Day 8: January 11, Wednesday
+### Day 9: January 11, Wednesday
 
 **Today's Progress**: roman numeral and Wherefore art thou adv. algorithm completed 
 
