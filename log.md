@@ -89,3 +89,17 @@
 **Link(s) to work**
 
 1. [Sum All Numbers in a Range](https://www.freecodecamp.com/challenges/sum-all-numbers-in-a-range) 
+
+
+### Day 8: January 11, Wednesday
+
+**Today's Progress**: roman numeral and Wherefore art thou adv. algorithm completed 
+
+**Thoughts**  some refactoring required to make Roman numerals conversion optimals
+
+**Link(s) to work**
+
+look in the [folder](/codecamp/adv. algorithms) 
+
+1. [Roman Numerals](https://www.freecodecamp.com/challenges/sum-all-numbers-in-a-range) 
+2. [Wherefore art thou](https://www.freecodecamp.com/challenges/wherefore-art-thou) 
