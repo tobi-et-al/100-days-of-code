@@ -133,4 +133,4 @@ look in the [folder](/codecamp/intermidiate algorithms)
 2. [missingLetter](https://www.freecodecamp.com/challenges/missing-letters) 
 3. [boowho](https://www.freecodecamp.com/challenges/boo-who) 
 
-** Now Playing V.3005 - Childish Gambino 🎵
+**Now Playing V.3005 - Childish Gambino 🎵**
