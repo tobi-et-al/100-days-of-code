@@ -117,3 +117,20 @@ look in the [folder](/codecamp/intermidiate algorithms)
 
 1. [Pig latin](https://www.freecodecamp.com/challenges/pig-latin) 
 2. [Wherefore art thou](https://www.freecodecamp.com/challenges/search-and-replace) 
+
+
+### Day 11: January 13, Friday
+
+**Today's Progress**: algorithm for finding misng letter and DNA pairing complete completed 
+
+**Thoughts**  getting quicker at churning this out, a little short for time today
+
+**Link(s) to work**
+
+look in the [folder](/codecamp/intermidiate algorithms) 
+
+1. [DNA Pairing](https://www.freecodecamp.com/challenges/dna-pairing) 
+2. [missingLetter](https://www.freecodecamp.com/challenges/missing-letters) 
+3. [boowho](https://www.freecodecamp.com/challenges/boo-who) 
+
+** Now Playing V.3005 - Childish Gambino 🎵
