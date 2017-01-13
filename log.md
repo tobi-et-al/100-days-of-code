@@ -62,9 +62,9 @@
 
 ### Day 6: January 8, Sunday
 
-**Today's Progress**: ciphar complete
+**Today's Progress**: algoritm written to sum all in range 
 
-**Thoughts** The ciphar was a bit complex. i certainly think it can be refactored but for now I AM SPARTACUS
+**Thoughts** didnt much done. short on time 
 
 **Link(s) to work**
 1. [Sum All Numbers in a Range](https://www.freecodecamp.com/challenges/sum-all-numbers-in-a-range) 
@@ -91,7 +91,7 @@
 1. [Sum All Numbers in a Range](https://www.freecodecamp.com/challenges/sum-all-numbers-in-a-range) 
 
 
-### Day 8: January 11, Wednesday
+### Day 9: January 11, Wednesday
 
 **Today's Progress**: roman numeral and Wherefore art thou adv. algorithm completed 
 
@@ -99,7 +99,21 @@
 
 **Link(s) to work**
 
-look in the [folder](/codecamp/adv. algorithms) 
+look in the [folder](/codecamp/intermidiate algorithms) 
 
 1. [Roman Numerals](https://www.freecodecamp.com/challenges/sum-all-numbers-in-a-range) 
 2. [Wherefore art thou](https://www.freecodecamp.com/challenges/wherefore-art-thou) 
+
+
+### Day 10: January 12, Thursday
+
+**Today's Progress**: algorithm for pig latin and search and replace completed 
+
+**Thoughts**  definately getting quicker at churning this out 
+
+**Link(s) to work**
+
+look in the [folder](/codecamp/intermidiate algorithms) 
+
+1. [Pig latin](https://www.freecodecamp.com/challenges/pig-latin) 
+2. [Wherefore art thou](https://www.freecodecamp.com/challenges/search-and-replace) 
