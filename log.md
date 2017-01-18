@@ -134,3 +134,47 @@ look in the [folder](/codecamp/intermidiate algorithms)
 3. [boowho](https://www.freecodecamp.com/challenges/boo-who) 
 
 ** Now Playing V.3005 - Childish Gambino 🎵
+
+### Day 11: January 13, Friday
+
+**Today's Progress**: :(  missed , will make up for it
+
+**Thoughts**  
+
+**Link(s) to work**
+
+### Day 11: January 14, Sat
+
+**Today's Progress**: :(  missed , will make up for it
+
+**Thoughts**  
+
+**Link(s) to work**
+ 
+
+### Day 11: January 14, Sunday
+
+**Today's Progress**: :(  missed , will make up for it
+
+**Thoughts**  
+
+**Link(s) to work**
+ 
+
+### Day 11: January 14, Sunday
+
+**Today's Progress**: :( missed , will make up for it
+
+**Thoughts**  
+
+**Link(s) to work**
+ 
+
+### Day 11: January 15, Tuesday
+
+**Today's Progress**: working on validating US phone number
+
+**Thoughts**  
+
+**Link(s) to work**
+ 
