@@ -135,7 +135,7 @@ look in the [folder](/codecamp/intermidiate algorithms)
 
 ** Now Playing V.3005 - Childish Gambino 🎵
 
-### Day 11: January 13, Friday
+### Day 12: January 13, Friday
 
 **Today's Progress**: :(  missed , will make up for it
 
@@ -143,16 +143,7 @@ look in the [folder](/codecamp/intermidiate algorithms)
 
 **Link(s) to work**
 
-### Day 11: January 14, Sat
-
-**Today's Progress**: :(  missed , will make up for it
-
-**Thoughts**  
-
-**Link(s) to work**
- 
-
-### Day 11: January 14, Sunday
+### Day 13: January 14, Saturday
 
 **Today's Progress**: :(  missed , will make up for it
 
@@ -161,7 +152,16 @@ look in the [folder](/codecamp/intermidiate algorithms)
 **Link(s) to work**
  
 
-### Day 11: January 14, Sunday
+### Day 14: January 15, Sunday
+
+**Today's Progress**: :(  missed , will make up for it
+
+**Thoughts**  
+
+**Link(s) to work**
+ 
+
+### Day 15: January 16, Monday
 
 **Today's Progress**: :( missed , will make up for it
 
@@ -170,7 +170,7 @@ look in the [folder](/codecamp/intermidiate algorithms)
 **Link(s) to work**
  
 
-### Day 11: January 15, Tuesday
+### Day 16: January 17, Tuesday
 
 **Today's Progress**: working on validating US phone number
 
@@ -178,3 +178,26 @@ look in the [folder](/codecamp/intermidiate algorithms)
 
 **Link(s) to work**
  
+
+### Day 17: January 18, Wednesday
+
+**Today's Progress**: :( missed , will make up for it
+
+**Thoughts**  
+
+**Link(s) to work**
+
+
+### Day 18: January 19, Thursday
+
+**Today's Progress**: algorithm validate US phone numbers complete 
+
+**Thoughts**  required a little more patience
+
+**Link(s) to work**
+
+look in the [folder](/codecamp/advanced) 
+
+1. [validate-us-telephone-numbers](https://www.freecodecamp.com/challenges/validate-us-telephone-numbers) 
+
+** Now Playing Cranes in the sky - Solange 🎵
