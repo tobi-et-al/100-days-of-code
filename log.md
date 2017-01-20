@@ -133,7 +133,7 @@ look in the [folder](/codecamp/intermidiate algorithms)
 2. [missingLetter](https://www.freecodecamp.com/challenges/missing-letters) 
 3. [boowho](https://www.freecodecamp.com/challenges/boo-who) 
 
-** Now Playing V.3005 - Childish Gambino 🎵
+**Now Playing V.3005 - Childish Gambino 🎵**
 
 ### Day 12: January 13, Friday
 
@@ -200,4 +200,4 @@ look in the [folder](/codecamp/advanced)
 
 1. [validate-us-telephone-numbers](https://www.freecodecamp.com/challenges/validate-us-telephone-numbers) 
 
-** Now Playing Cranes in the sky - Solange 🎵
+** Now Playing Cranes in the sky - Solange 🎵 ** 
