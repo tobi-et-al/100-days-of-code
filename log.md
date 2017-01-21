@@ -201,3 +201,19 @@ look in the [folder](/codecamp/advanced)
 1. [validate-us-telephone-numbers](https://www.freecodecamp.com/challenges/validate-us-telephone-numbers) 
 
 ** Now Playing Cranes in the sky - Solange 🎵 ** 
+
+### Day 18: January 19, Friday
+
+**Today's Progress**: algorithm to update a record collection , and work out the difference between array 
+
+**Thoughts** so far so good , still feel like it can be  refactored
+
+**Link(s) to work**
+
+look in the [folder](/codecamp/advanced) 
+
+1. [record collection](https://www.freecodecamp.com/challenges/record-collection) 
+1. [symmetrical difference](https://www.freecodecamp.com/challenges/symmetric-difference) 
+
+** Trump got elected ..bama out 🇺🇸:(
+** Now Playing  Waves - Joey bada$$ 🎵 ** 
