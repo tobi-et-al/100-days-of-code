@@ -217,3 +217,17 @@ look in the [folder](/codecamp/advanced)
 
 ** Trump got elected ..bama out 🇺🇸:(
 ** Now Playing  Waves - Joey bada$$ 🎵 ** 
+
+### Day 19: January 20, Saturday
+
+**Today's Progress**: worked on the cash registery 
+
+**Thoughts** very good test of my of my puzzle solving skills
+
+**Link(s) to work**
+
+look in the [folder](/codecamp/advanced) 
+
+1. [cash registery ](https://www.freecodecamp.com/challenges/exact-change) 
+
+** Now Playing Super Rich kids - Frank ocean 🎵 ** 
