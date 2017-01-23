@@ -202,7 +202,7 @@ look in the [folder](/codecamp/advanced)
 
 ** Now Playing Cranes in the sky - Solange 🎵 ** 
 
-### Day 18: January 19, Friday
+### Day 18: January 20, Friday
 
 **Today's Progress**: algorithm to update a record collection , and work out the difference between array 
 
@@ -218,9 +218,10 @@ look in the [folder](/codecamp/advanced)
 ** Trump got elected ..bama out 🇺🇸:(
 ** Now Playing  Waves - Joey bada$$ 🎵 ** 
 
-### Day 19: January 20, Saturday
 
-**Today's Progress**: worked on the cash registery 
+### Day 19: January 21, Saturday
+
+**Today's Progress**: worked on the cash registry 
 
 **Thoughts** very good test of my of my puzzle solving skills
 
@@ -231,3 +232,18 @@ look in the [folder](/codecamp/advanced)
 1. [cash registery ](https://www.freecodecamp.com/challenges/exact-change) 
 
 ** Now Playing Super Rich kids - Frank ocean 🎵 ** 
+
+
+### Day 20: January 22, Sunday
+
+**Today's Progress**: Inventory Update
+
+**Thoughts** no muss no fuss
+
+**Link(s) to work**
+
+look in the [folder](/codecamp/advanced) 
+
+1. [Inventory Update](https://www.freecodecamp.com/challenges/inventory-update) 
+
+** Now Playing Another Round Podcast FT kim drew (twitter: museummammy) 🎵 ** 
