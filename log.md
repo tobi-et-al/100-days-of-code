@@ -247,3 +247,33 @@ look in the [folder](/codecamp/advanced)
 1. [Inventory Update](https://www.freecodecamp.com/challenges/inventory-update) 
 
 ** Now Playing Another Round Podcast FT kim drew (twitter: museummammy) 🎵 ** 
+
+
+### Day 21: January 23, Monday
+
+**Today's Progress**: worked on advanced algorithms , Friendly Date Ranges 
+
+**Thoughts** not my favorite work so far overly complicated - need refactoring
+
+**Link(s) to work**
+
+look in the [folder](/codecamp/advanced) 
+
+1. [convert date range to more readable format](https://www.freecodecamp.com/challenges/friendly-date-ranges) 
+
+** Now Playing So serious Jarreau Vandal 🎵 **  
+
+
+### Day 22: January 23, Tuesday
+
+**Today's Progress**:  created a person using an object constructor
+
+**Thoughts** bob instanceof Person will only yield true there is no return statement
+
+**Link(s) to work**
+
+look in the [folder](/codecamp/advanced) 
+
+1. [Make a Person](https://www.freecodecamp.com/challenges/make-a-person) 
+
+** Now Playing bbc radio 1 🎵 **  
