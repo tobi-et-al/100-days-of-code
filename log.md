@@ -264,7 +264,7 @@ look in the [folder](/codecamp/advanced)
 ** Now Playing So serious Jarreau Vandal 🎵 **  
 
 
-### Day 22: January 23, Tuesday
+### Day 22: January 24, Tuesday
 
 **Today's Progress**:  created a person using an object constructor
 
