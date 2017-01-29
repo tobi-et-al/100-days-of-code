@@ -277,3 +277,58 @@ look in the [folder](/codecamp/advanced)
 1. [Make a Person](https://www.freecodecamp.com/challenges/make-a-person) 
 
 ** Now Playing bbc radio 1 🎵 **  
+
+### Day 23: January 25, Wednesday
+
+**Today's Progress**:  working on a electronic calculator
+
+**Link(s) to work**
+
+look in the [here](https://github.com/tobi-et-al/8bitCalculator) 
+
+[calculator](https://www.freecodecamp.com/challenges/make-a-person) 
+
+[preview](https://tobi-et-al.github.io/8bitCalculator/) 
+	
+
+** Now Playing bbc radio 1 🎵 **  
+
+### Day 24: January 25, thursday
+
+**Today's Progress**:  working on a electronic calculator
+
+**Link(s) to work**
+
+look in the [here](https://github.com/tobi-et-al/8bitCalculator) 
+
+[calculator](https://www.freecodecamp.com/challenges/make-a-person) 
+
+[preview](https://tobi-et-al.github.io/8bitCalculator/) 
+
+
+### Day 25: January 25, Friday
+
+
+**Today's Progress**:  working on a electronic calculator
+
+**Link(s) to work**
+
+look in the [here](https://github.com/tobi-et-al/8bitCalculator) 
+
+[calculator](https://www.freecodecamp.com/challenges/make-a-person) 
+
+[preview](https://tobi-et-al.github.io/8bitCalculator/) 
+
+
+### Day 26: January 26, Saturday
+
+
+**Today's Progress**:  working on a electronic calculator
+
+**Link(s) to work**
+
+look in the [here](https://github.com/tobi-et-al/8bitCalculator) 
+
+[calculator](https://www.freecodecamp.com/challenges/make-a-person) 
+
+[fully working calculator](https://tobi-et-al.github.io/8bitCalculator/) 
