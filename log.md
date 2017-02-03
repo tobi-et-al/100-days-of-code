@@ -286,14 +286,12 @@ look in the [folder](/codecamp/advanced)
 
 look in the [here](https://github.com/tobi-et-al/8bitCalculator) 
 
-[calculator](https://www.freecodecamp.com/challenges/make-a-person) 
-
 [preview](https://tobi-et-al.github.io/8bitCalculator/) 
 	
 
 ** Now Playing bbc radio 1 🎵 **  
 
-### Day 24: January 25, thursday
+### Day 24: January 26, thursday
 
 **Today's Progress**:  working on a electronic calculator
 
@@ -301,12 +299,12 @@ look in the [here](https://github.com/tobi-et-al/8bitCalculator)
 
 look in the [here](https://github.com/tobi-et-al/8bitCalculator) 
 
-[calculator](https://www.freecodecamp.com/challenges/make-a-person) 
+[calculator](https://www.freecodecamp.com/challenges/build-a-javascript-calculator) 
 
 [preview](https://tobi-et-al.github.io/8bitCalculator/) 
 
 
-### Day 25: January 25, Friday
+### Day 25: January 27, Friday
 
 
 **Today's Progress**:  working on a electronic calculator
@@ -315,20 +313,83 @@ look in the [here](https://github.com/tobi-et-al/8bitCalculator)
 
 look in the [here](https://github.com/tobi-et-al/8bitCalculator) 
 
-[calculator](https://www.freecodecamp.com/challenges/make-a-person) 
+[calculator](https://www.freecodecamp.com/challenges/build-a-javascript-calculator) 
 
 [preview](https://tobi-et-al.github.io/8bitCalculator/) 
 
 
-### Day 26: January 26, Saturday
+### Day 26: January 28, Saturday
 
 
-**Today's Progress**:  working on a electronic calculator
+**Today's Progress**:  complete electronic calculator
 
 **Link(s) to work**
 
 look in the [here](https://github.com/tobi-et-al/8bitCalculator) 
 
-[calculator](https://www.freecodecamp.com/challenges/make-a-person) 
+[calculator](https://www.freecodecamp.com/challenges/build-a-javascript-calculator) 
 
 [fully working calculator](https://tobi-et-al.github.io/8bitCalculator/) 
+
+
+### Day 27: January 29, Sunday
+
+
+**Today's Progress**:  working on P🍅modoro Tim⏲r!
+
+**Link(s) to work**
+
+look in the [here](https://tobi-et-al.github.io/PomodoroTimer/) 
+
+[fully working calculator](https://tobi-et-al.github.io/PomodoroTimer/) 
+
+
+### Day 28: January 30, Monday
+
+
+**Today's Progress**:  working on P🍅modoro Tim⏲r!
+
+**Link(s) to work**
+
+look in the [here](https://tobi-et-al.github.io/PomodoroTimer/) 
+
+[fully working calculator](https://tobi-et-al.github.io/PomodoroTimer/) 
+
+
+
+### Day 29: January 31, Tuesday
+
+
+**Today's Progress**:  working on P🍅modoro Tim⏲r!
+
+**Link(s) to work**
+
+look in the [here](https://tobi-et-al.github.io/PomodoroTimer/) 
+
+[fully working calculator](https://tobi-et-al.github.io/PomodoroTimer/) 
+
+
+
+### Day 30: Feburary 1, Wednesday
+
+
+**Today's Progress**:  working on P🍅modoro Tim⏲r!
+
+**Link(s) to work**
+
+look in the [here](https://tobi-et-al.github.io/PomodoroTimer/) 
+
+[fully working calculator](https://tobi-et-al.github.io/PomodoroTimer/) 
+
+
+
+### Day 31: Feburary 2, Thursday
+
+
+**Today's Progress**:  working on P🍅modoro Tim⏲r!
+
+**Link(s) to work**
+
+look in the [here](https://tobi-et-al.github.io/PomodoroTimer/) 
+
+[fully working calculator](https://tobi-et-al.github.io/PomodoroTimer/) 
