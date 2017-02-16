@@ -341,7 +341,7 @@ look in the [here](https://github.com/tobi-et-al/8bitCalculator)
 
 look in the [here](https://tobi-et-al.github.io/PomodoroTimer/) 
 
-[fully working calculator](https://tobi-et-al.github.io/PomodoroTimer/) 
+[fully working pomodoro](https://tobi-et-al.github.io/PomodoroTimer/) 
 
 
 ### Day 28: January 30, Monday
@@ -353,7 +353,7 @@ look in the [here](https://tobi-et-al.github.io/PomodoroTimer/)
 
 look in the [here](https://tobi-et-al.github.io/PomodoroTimer/) 
 
-[fully working calculator](https://tobi-et-al.github.io/PomodoroTimer/) 
+[fully working pomodoro](https://tobi-et-al.github.io/PomodoroTimer/) 
 
 
 
@@ -366,30 +366,25 @@ look in the [here](https://tobi-et-al.github.io/PomodoroTimer/)
 
 look in the [here](https://tobi-et-al.github.io/PomodoroTimer/) 
 
-[fully working calculator](https://tobi-et-al.github.io/PomodoroTimer/) 
+[fully working pomodoro](https://tobi-et-al.github.io/PomodoroTimer/) 
 
 
 
 ### Day 30: Feburary 1, Wednesday
 
+ 
+**Today's Progress**:  feeing sick taking a time out 🤒
 
-**Today's Progress**:  working on P🍅modoro Tim⏲r!
-
-**Link(s) to work**
-
-look in the [here](https://tobi-et-al.github.io/PomodoroTimer/) 
-
-[fully working calculator](https://tobi-et-al.github.io/PomodoroTimer/) 
+ 
 
 
+### Day 31: Feburary 15, Thursday
 
-### Day 31: Feburary 2, Thursday
 
-
-**Today's Progress**:  working on P🍅modoro Tim⏲r!
+**Today's Progress**:  tictactoe game completed!
 
 **Link(s) to work**
 
-look in the [here](https://tobi-et-al.github.io/PomodoroTimer/) 
+look in the [here](https://github.com/tobi-et-al/tictactoe) 
 
-[fully working calculator](https://tobi-et-al.github.io/PomodoroTimer/) 
+[fully working tictactoe game](https://tobi-et-al.github.io/tictactoe/) 
