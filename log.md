@@ -388,3 +388,91 @@ look in the [here](https://tobi-et-al.github.io/PomodoroTimer/)
 look in the [here](https://github.com/tobi-et-al/tictactoe) 
 
 [fully working tictactoe game](https://tobi-et-al.github.io/tictactoe/) 
+
+
+### Day 32: Feburary 16, friday
+
+
+**Today's Progress**:  working on the simon gae
+
+**Link(s) to work**
+
+look in the [here](https://github.com/tobi-et-al/simon-game) 
+
+[fully working tictactoe game](https://github.com/tobi-et-al/simon-game) 
+
+
+### Day 33: Feburary 16, Saturday
+
+
+**Today's Progress**:  working on the simon gae
+
+**Link(s) to work**
+
+look in the [here](https://github.com/tobi-et-al/simon-game) 
+
+[fully working tictactoe game](https://github.com/tobi-et-al/simon-game) 
+
+
+### Day 34: Feburary 17, sunday
+
+
+**Today's Progress**:  working on the simon game
+
+**Link(s) to work**
+
+look in the [here](https://github.com/tobi-et-al/simon-game) 
+
+[fully working tictactoe game](https://github.com/tobi-et-al/simon-game) 
+
+
+### Day 35: Feburary 18, monday
+
+
+**Today's Progress**:  working on the simon game
+
+**Link(s) to work**
+
+look in the [here](https://github.com/tobi-et-al/simon-game) 
+
+[fully working tictactoe game](https://github.com/tobi-et-al/simon-game) 
+
+
+### Day 36: Feburary 19, Tuesday
+
+
+**Today's Progress**:  working on the simon game
+
+**Link(s) to work**
+
+look in the [here](https://github.com/tobi-et-al/simon-game) 
+
+[fully working tictactoe game](https://github.com/tobi-et-al/simon-game) 
+
+### Day 37: Feburary 20, wednesday
+
+
+**Today's Progress**:  simon game wrapped up
+
+**Link(s) to work**
+
+look in the [here](https://github.com/tobi-et-al/simon-game) 
+
+[fully working tictactoe game](https://github.com/tobi-et-al/simon-game) 
+
+### Day 38/39: Feburary 21, wednesday
+
+
+**Today's Progress**:  reading up on canvas
+
+**Link(s) to work**
+
+### Day 40: Feburary 21, wednesday
+
+
+**Today's Progress**:  taking a few days off  feeling ill
+
+**Link(s) to work**
+
+ 
+ 
