@@ -474,5 +474,11 @@ look in the [here](https://github.com/tobi-et-al/simon-game)
 
 **Link(s) to work**
 
- 
+### Day 41/42: March 10, Friday
+
+
+**Today's Progress**: working with promises
+
+**Link(s) to work**
+
  
